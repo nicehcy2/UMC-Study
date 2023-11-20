@@ -20,5 +20,6 @@ public class TempResponse {
     @AllArgsConstructor
     public static class TempExceptionDTO {
         Integer flag;
+        Integer flag;
     }
 }
